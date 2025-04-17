@@ -337,7 +337,7 @@
 
 .footer {
   box-sizing: border-box;
-  background-color: #000000;
+  background-color: #1f1f1f;
   color: #fff;
   display: flex;
   flex-direction: column;
